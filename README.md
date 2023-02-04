@@ -14,3 +14,7 @@
 - Network administrator for my own and other network systems
 
 _More coming soon..._
+
+---
+
+![](https://komarev.com/ghpvc/?username=turtlecode84&color=006afe&style=for-the-badge)
