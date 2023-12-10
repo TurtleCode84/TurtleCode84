@@ -11,7 +11,8 @@
 
 ### About me:
 - Full-stack web developer, active maintainer of several web projects
-- Network engineer & administrator for my own and other network systems
+- Computer engineering student
+- Systems administrator for my own and other server projects
 
 _More coming soon..._
 
